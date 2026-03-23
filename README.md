@@ -12,3 +12,7 @@ Answer for part 2 is 58961152806
 # Day 3
 Anwser for part 1 is 17383
 Answer for part 2 is 172601598658203
+
+# Day 4
+Answer for part 1 is 1389
+Answer for part 2 is 9000
