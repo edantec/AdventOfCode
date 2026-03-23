@@ -1,5 +1,6 @@
 # AdventOfCode
 Algorithms for Advent of Code 2025
+Numpy is needed to run the algorithms
 
 # Day 1
 Answer for part 1 is 1089
